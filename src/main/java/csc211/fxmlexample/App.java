@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 /**
  * JavaFX App
  */
-// Delete this later
+
 public class App extends Application {
 
     @Override
